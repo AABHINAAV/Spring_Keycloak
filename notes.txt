@@ -1,0 +1,2 @@
+command to start server:
+kc.bat start-dev --http-port #
